@@ -1,0 +1,10 @@
+div.main{
+  min-height: 350px;
+}
+a{
+  color: #000;
+  text-decoration: none;
+}
+div.submitBtn{
+  align: center;
+}
