@@ -89,7 +89,7 @@
 > ![網頁_後台](https://i.imgur.com/9SDE154.png)
 
 * 網頁原始碼
-> ![網頁原始碼_後台](https://i.imgur.com/Wdaps30.png =80%x)
+> ![網頁原始碼_後台](https://i.imgur.com/Wdaps30.png)
 
 * 資料庫
 > ![資料庫_文章](https://i.imgur.com/iYb7mQT.png)
@@ -198,7 +198,7 @@
 ## 2. 撰寫惡意腳本
 撰寫一個駭客攻擊所採用的惡意腳本，佯裝成一個優惠廣告，欺騙用戶點擊。
 
-![惡意圖片](https://i.imgur.com/3VLbEkS.png =80%x)
+![惡意圖片](https://i.imgur.com/3VLbEkS.png)
 > 點擊圖片後會連到[某知名成衣品牌的官網](https://www.uniqlo.com/tw/?gclid=CjwKCAjw5cL2BRASEiwAENqAPvFIzONBhsBFg6kj6Jw2AoHeBtrtz--b9mX5twrfUrhRuVl3NLExnBoCbE4QAvD_BwE&gclsrc=aw.ds)
 
 ### 攻擊流程
