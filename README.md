@@ -1,6 +1,19 @@
 [Final Project] Cross-site request forgery (CSRF)
 ===
 ###### tags: `ISS`
+# 資料夾說明
+## 0_Original
+包含原始的部落格網站(/13)以及測試攻擊的惡意網站(/testDelete)網頁原始碼，將(/13)及(/testDelete)複製到(\xampp\htdocs)路徑下。
+
+## 1_CsrfToken
+隨機生成一組token，存在SERVER端的SESSION當中，將資料夾內容取代(\xampp\htdocs)的檔案即可。
+
+## 2_DoubleSubmitCookie
+隨機生成一組token，存在CLIENT端的COOKIE當中，將資料夾內容取代(\xampp\htdocs)的檔案即可。
+
+## 3_Fusion
+隨機生成一組token，同時存在SERVER端的SESSION與CLIENT端的COOKIE當中，將資料夾內容取代(\xampp\htdocs)的檔案即可。
+
 
 # CSRF介紹
 跨站請求偽造（CSRF）又稱為 one-click attack 或者 session riding，攻擊者通過一些技術**欺騙用戶的瀏覽器去存取一個自己曾經認證過的網站並執行一些操作**。
